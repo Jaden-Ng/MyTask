@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyTask</string>
+    <string name="Task">Task</string>
+    <string name="writetask">Write your task</string>
+    <string name="date">Date</string>
+    <string name="writedate">Write date(mm/dd/yyyy)</string>
+    <string name="insert">insert</string>
+    <string name="Show">View List</string>
+    <string name="update">update</string>
+    <string name="del">delete</string>
+</resources>
